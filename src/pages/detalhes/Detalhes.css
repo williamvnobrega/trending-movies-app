@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.container{
+    color:#1c1f1b;
+    margin-top: 15px;
+    border-radius: 10px;  
+    box-shadow: 0 2px 8px rgb(0 0 0 / 10%);
+}
+
+.card_details{
+    display: flex;
+    
+}
+
+.card_details img{
+    padding:10px;
+    
+}
+
+.text{
+    width:60%;
+    padding:10px;
+    color:#1c1f1b;
+    text-align: left;
+    
+}
+.text h1{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.text p{
+    font-size: 16px;
+    padding:5px;
+}
+.score, .date_span{
+    font-weight: 600;
+    color:#ee197f;
+}
+
+.back{
+    display: flex;
+    align-self: flex-start;
+    padding:15px;
+    color:#1c1f1b;
+    font-weight: 600;
+}
+.back:hover{
+   color: #ee197f;
+}

@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@100;300;600;700&display=swap');
+
+:root {
+  font-family: 'Archivo', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  background-color: #f9f9f9;
+  color-scheme: light dark;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  color:#1c1f1b;
+  font-size: 50px;
+  line-height: 1.1;
+  font-weight: 700;
+  
+}
+span{
+  color:#EE197F;
+}
+h2{
+  color:#1c1f1b;
+  padding:10px;
+  margin-bottom: 5px;
+  font-size: 20px;
+  font-weight: 300;
+}

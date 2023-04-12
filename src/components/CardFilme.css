@@ -1,0 +1,50 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.CardFilme {
+    border: 1px solid #e3e3e3;
+    width: 200px;
+    height:380px;
+    border-radius: 10px;  
+    box-shadow: 0 2px 8px rgb(0 0 0 / 10%);
+} 
+
+.poster {
+    padding: 5px;
+    
+}
+
+.icon{
+    color:#ee197f;
+    position: absolute;
+    margin-left: 140px;
+    margin-top: 15px;
+}
+
+.data {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    color:#1c1f1b;
+    
+}
+
+.data span{
+    font-size: 13px;
+    line-height: 2rem;
+    
+}
+
+.data p{
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    color:#1c1f1b;
+}
+.data p:hover{
+    color:#EE197F;
+}
+.score{
+    color:#1c1f1b;
+}
