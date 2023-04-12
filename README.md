@@ -22,11 +22,6 @@ This is a dynamic application that shows the movies trending this week. It was d
 ### Screenshot
 ![screen_movies](https://user-images.githubusercontent.com/108727812/231357191-d8c3952c-4c15-430d-9d27-834e25e2bf68.PNG)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ### Built with
 
 - Semantic HTML5 markup
